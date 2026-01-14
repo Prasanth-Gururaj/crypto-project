@@ -1,0 +1,4 @@
+kafka-python
+websocket-client
+
+# For Glue jobs the packages are pre-installed or aavailable in the aws glue environment.
