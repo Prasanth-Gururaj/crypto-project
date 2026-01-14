@@ -108,8 +108,8 @@ This pipeline ingests live cryptocurrency trading data from **Coinbase WebSocket
 - **Athena**: Serverless SQL queries on S3
 - **QuickSight**: BI dashboards and visualizations
 - **Cost**: Pay-per-query (data scanned)
-```
----
+
+
 
 ## 🛠️ Tech Stack
 
